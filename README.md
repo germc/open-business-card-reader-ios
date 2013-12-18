@@ -23,7 +23,7 @@ NSString *const kAPIKey = @"MYAPIKEY";
 ## Using the Application
 Depending on your application architecture and requirements there are different methods for integrating Open Business Card Reader into your application.
 
-Check out the [Wiki](/wiki) for more information.
+Check out the [Wiki](https://github.com/fullcontact/open-business-card-reader-ios/wiki) for more information.
 
 ## Requirements
 
