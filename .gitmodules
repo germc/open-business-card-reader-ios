@@ -1,0 +1,6 @@
+[submodule "open-business-card-reader-ios/open-business-card-reader-ios/Code/Libs/AFNetworking"]
+	path = open-business-card-reader-ios/open-business-card-reader-ios/Code/Libs/AFNetworking
+	url = https://github.com/fullcontact/AFNetworking.git
+[submodule "open-business-card-reader-ios/open-business-card-reader-ios/Code/Libs/fullcontact-objc"]
+	path = open-business-card-reader-ios/open-business-card-reader-ios/Code/Libs/fullcontact-objc
+	url = https://github.com/fullcontact/fullcontact-objc.git

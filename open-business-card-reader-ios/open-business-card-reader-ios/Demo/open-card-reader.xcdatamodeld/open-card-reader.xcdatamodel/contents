@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0"
+       lastSavedToolsVersion="3400" systemVersion="13A598" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic"
+       iOSVersion="Automatic">
+    <entity name="Card" representedClassName="Card" syncable="YES">
+        <attribute name="backImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="captureDate" attributeType="Date" syncable="YES"/>
+        <attribute name="cardId" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="frontImage" attributeType="Binary" syncable="YES"/>
+        <attribute name="notes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="response" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="status" attributeType="String" defaultValueString="PROCESSING" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Card" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>
